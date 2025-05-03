@@ -114,7 +114,54 @@ Here's a more detailed breakdown:
    Test Thoroughly:
    Test the app on various devices and screen sizes to ensure a consistent user experience.
 
+-----------------------------
+Performance metrics
+Speed
+Responsiveness
+Memory usage
+CPU usage
+Battery consumption
+Offline functionality
+Crash rate
+Error rate
+Minimal lag
+Startup time
+Background processing
+Predictable and reliable
+user behavior
+------------------
+Performance - Flutter
+UI
+Minimum Ul rebuilds
+Usage of Expensive Widget
+Use builders
+Use State management
+Optimize scrolls
+Minimize Tree Complexity
 
+Memory
+Destroy unused objects
+Use stateless Widgets
+Do not leak objects
+Use better Data Structure
+Use compressed assets
+Code splitting
+Object Pooling
+
+CPU
+Isolate Long-Running tasks
+Cache network calls
+Use Method Channels
+Use FFI
+Use Futures, Streams,
+
+
+Flutter dev tools
+Flutter inspector
+Performance view
+CPU profiler view
+Memory view
+Network view
 ## Getting Started
 
 This project is a starting point for a Flutter application.
