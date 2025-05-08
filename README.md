@@ -129,6 +129,7 @@ Here's a more detailed breakdown:
 
 -----------------------------
 Performance metrics:
+
 Speed,
 
 Responsiveness,
