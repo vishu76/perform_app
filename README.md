@@ -161,7 +161,8 @@ Flutter inspector
 Performance view
 CPU profiler view
 Memory view
-Network view
+Network view 
+s-----
 ## Getting Started
 
 This project is a starting point for a Flutter application.
