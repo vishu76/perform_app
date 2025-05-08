@@ -129,19 +129,30 @@ Here's a more detailed breakdown:
 
 -----------------------------
 Performance metrics:
-
 Speed,
+
 Responsiveness,
+
 Memory usage,
+
 CPU usage,
+
 Battery consumption,
+
 Offline functionality,
+
 Crash rate,
+
 Error rate,
+
 Minimal lag,
+
 Startup time,
+
 Background processing,
+
 Predictable and reliable,
+
 user behavior
 ------------------
 Performance - Flutter
