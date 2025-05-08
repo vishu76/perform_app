@@ -1,6 +1,4 @@
-# perform_app
-
-app performance enhancement
+App performance enhancement
 1. flutter lint for basic rule for coding
 2. Avoid creating methods that return Widgets
    Text createTextWidget() {
@@ -56,6 +54,7 @@ performance
 
 ______________________________________________________
 Performance Optimization:
+
 Minimize Rebuilds:
 Avoid unnecessary widget rebuilds by using const widgets where possible, optimizing state management, and using ListView.builder for efficient list rendering.
 Efficient Layouts:
@@ -115,7 +114,7 @@ Here's a more detailed breakdown:
    Test the app on various devices and screen sizes to ensure a consistent user experience.
 
 -----------------------------
-Performance metrics
+Performance metrics:
 Speed
 Responsiveness
 Memory usage
